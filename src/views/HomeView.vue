@@ -1,10 +1,10 @@
 <template>
   <DefaultTemplate>
     <v-row>
-      <v-col md="6">
+      <v-col md="6" sm="12" xs="12">
         <v-img src="/jacob-mathison-profile.jpg" alt="Jacob Mathison" width="100%" />
       </v-col>
-      <v-col md="6">
+      <v-col md="6" sm="12" xs="12">
         <v-card >
           <v-card-title>
             <h3>Welcome!</h3>
