@@ -37,6 +37,6 @@ export default {
 
 <style scoped>
     .body-footer-spacer {
-        margin-bottom: 210px;
+        margin-bottom: 260px;
     }
 </style>

@@ -1,13 +1,13 @@
 <template>
   <DefaultTemplate>
     <v-row>
-      <v-col md="6" sm="12" xs="12">
+      <v-col cols="12" md="6">
         <v-img src="/jacob-mathison-profile.jpg" alt="Jacob Mathison" width="100%" />
       </v-col>
-      <v-col md="6" sm="12" xs="12">
+      <v-col cols="12" md="6">
         <v-card >
           <v-card-title>
-            <h3>Welcome!</h3>
+            <h4>Welcome to Mathison Projects</h4>
           </v-card-title>
           <v-card-text>
             <p class="text-body-1 my-2">I am a software engineer with over 15 years of experience in the industry. I have worked in a variety of roles, from software engineer to team lead to architect. I have a passion for technology and a desire to help others succeed.</p>
