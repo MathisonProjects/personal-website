@@ -7,14 +7,10 @@ frontend:
     build:
       commands:
         - node -v
-        - echo $VUE_APP_GRAPHQL_API_URI
-        - echo $VUE_APP_GRAPHQL_API_KEY
         - echo > .env
-        - echo "VUE_APP_GRAPHQL_API_URI=$VUE_APP_GRAPHQL_API_URI" >> .env
-        - echo "VUE_APP_GRAPHQL_API_KEY=$VUE_APP_GRAPHQL_API_KEY" >> .env
         - npm run build
   artifacts:
-    baseDirectory: app/dist
+    baseDirectory: dist
     files:
       - '**/*'
   cache:
