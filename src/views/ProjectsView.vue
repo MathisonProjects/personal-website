@@ -1,7 +1,7 @@
 <template>
     <DefaultTemplate>
       <v-row>
-        <v-col md="3">
+        <v-col md="3" xs="12">
           <v-list>
             <v-list-item @click="view = 'All'" :class="{ 'v-list-item-selected': view === 'all' }">
               <v-list-item-title>
