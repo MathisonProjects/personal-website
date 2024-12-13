@@ -7,7 +7,7 @@
       <v-col md="6">
         <v-card >
           <v-card-title>
-            <h1>Welcome to Mathison Projects</h1>
+            <h3>Welcome!</h3>
           </v-card-title>
           <v-card-text>
             <p class="text-body-1 my-2">I am a software engineer with over 15 years of experience in the industry. I have worked in a variety of roles, from software engineer to team lead to architect. I have a passion for technology and a desire to help others succeed.</p>
