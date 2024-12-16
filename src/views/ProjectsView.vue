@@ -79,9 +79,9 @@
       return {
         view: 'All',
         projects: [
-          { type: 'Contract', title: "Capital One", role: "Sr VueJs Engineer", description: "", url: "https://www.capitalone.com/" },
-          { type: 'Contract', title: "E-Worldes", role: "Sr React Engineer", description: "", url: "https://eworldes.com/" },
-          { type: 'Contract', title: "Wild Fork Foods", role: "Frontend Team Lead", description: "", url: "https://wildforkfoods.com/" },
+          { type: 'Contract', title: "Capital One", role: "Sr VueJs Engineer", description: "I worked on internal Capital One tools to help with the development of their products. VueJs, AWS.", url: "https://www.capitalone.com/" },
+          { type: 'Contract', title: "E-Worldes", role: "Sr VueJs Engineer", description: "Helped support their client, the state of Hawaii, on their DHS website and suite of services. VueJs, Azure.", url: "https://eworldes.com/" },
+          { type: 'Contract', title: "Wild Fork Foods", role: "Frontend Team Lead", description: "Helped spearhead the development of the rebuild of their website. Collaborated with Product Development, Business Analyitics, Quality Assurance, Scrum, Backend Teams, and 3rd Party Vendors. NextJs, ReactJs, Azure.", url: "https://wildforkfoods.com/" },
           { type: 'Contract', title: "Amazon.com", role: "Sr VueJs Engineer", description: "", url: "https://amazon.com/" },
           { type: 'Contract', title: "Omaha Steaks", role: "Sr VueJs Engineer", description: "", url: "https://omahasteaks.com/" },
           { type: 'Contract', title: "Haliburton", role: "Sr VueJs Engineer", description: "", url: "https://haliburton.com/" },
@@ -98,6 +98,7 @@
           { type: 'Contract', title: "Hayneedle Inc", role: "Web Application Dev III", description: "", url: "https://www.hayneedle.com/" },
           { type: 'Side', title: "Rural Nevada Democratic Caucus", role: "Solution Architect", description: "Being friends with the RNDC Chair, he requested for me to build out a tool to help with creating and supporting all of the caucus websites. Please do not take this as a reflection of my politics. I just like helping my friends.", url: "" },
           { type: 'Side', title: "The Latest Byte", role: "Solution Architect", description: "Created to test a number of key technologies in relation to AWS and serverless. It makes it simple to create and deploy articles and update the site in a modular manner.", url: "https://www.thelatestbyte.com/" },
+          { type: 'Side', title: "Twitter Community Scheduler", role: "NodeJs Developer", description: "Created to help schedule tweets to a twitter community. It allows for a simple way to schedule tweets to a community and track the progress of the tweets.", url: "https://github.com/MathisonProjects/twitter-community-scheduler" },
           { type: 'Personal', title: "A God's Fate, A D&D Campaign", role: "Game Master / Designer", description: "Created for a D&D Campaign to track players, characters, notes, and more. Used mostly for reference. Uses AI for the art of characters.", url: "https://www.agodsfate.com/" },
         ]
       }
